@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClassParty</string>
+    <string name="sans_serif_condensed" translatable="false">sans-serif-condensed</string>
+</resources>
